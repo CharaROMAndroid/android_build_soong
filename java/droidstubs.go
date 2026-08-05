@@ -1157,7 +1157,6 @@ var HIDDEN_DOCUMENTATION_ISSUES = []string{
 	"Deprecated",
 	"IntDef",
 	"Nullable",
-	"InvalidJavadoc",
 }
 
 func treatDocumentationIssuesAsWarningErrorWhenNew(cmd *android.RuleBuilderCommand) {
