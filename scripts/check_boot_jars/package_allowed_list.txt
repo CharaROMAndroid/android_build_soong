@@ -309,6 +309,10 @@ org.codeaurora.ims
 org.codeaurora.internal
 qcom.fmradio
 
+# Xiaomi stuffs
+com.xiaomi.ims
+com.xiaomi.internal.telephony
+
 ###################################################
 # IFAA Manager used for Alipay and/or WeChat payment
 org\.ifaa\.android\.manager.*
